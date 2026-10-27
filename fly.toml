@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for rednote-api on 2025-11-21T22:30:55Z
+# fly.toml app configuration file generated for rednote-api on 2026-10-27T16:55:39Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
 app = 'rednote-api'
-primary_region = 'sin'
+primary_region = 'ams'
 
 [build]
 
